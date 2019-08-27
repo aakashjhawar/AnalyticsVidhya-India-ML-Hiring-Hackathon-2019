@@ -58,7 +58,7 @@ $ jupyter notebook
 ```
 Or run the Python3 file.
 ```sh
-$ python3 myfile.py
+$ python3 ml_hiring_hackathon.py
 ```
 
 ### F1 Score: 0.35233
