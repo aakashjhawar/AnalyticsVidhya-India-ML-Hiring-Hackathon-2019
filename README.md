@@ -62,4 +62,4 @@ $ python3 ml_hiring_hackathon.py
 ```
 
 ### F1 Score: 0.35233
-Secured Rank 5 out of 1232.
+Secured Rank 5 on the leader board.
