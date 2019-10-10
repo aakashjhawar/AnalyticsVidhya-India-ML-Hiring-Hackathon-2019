@@ -62,5 +62,8 @@ $ python3 ml_hiring_hackathon.py
 ```
 
 ### F1 Score: 0.35233
-Secured Rank 23 on the leader board.
-[Link to Scoreboard](https://datahack.analyticsvidhya.com/contest/india-ml-hiring-hackathon-2019/lb)
+Secured Rank 5 on Public leader board.
+[Link to Public Leaderboard](https://datahack.analyticsvidhya.com/contest/india-ml-hiring-hackathon-2019/lb)
+
+Secured Rank 23 on Private leader board.
+[Link to Private Leaderboard](https://datahack.analyticsvidhya.com/contest/india-ml-hiring-hackathon-2019/pvt_lb)
